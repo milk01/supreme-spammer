@@ -7,14 +7,15 @@ function sendEmail() {
         url: 'https://register.supremenewyork.com/mailinglist_signup',
         method: 'post',
         formData: {
-            email: 'example@example.com'
+            email: 'example@example.com' // put your email here instead of example
         },
         json: true
     },function(err, resp, body){
         sendEmail()
-        // console.log(body)
+     console.log('Email sent...')
     })
 }
 
     sendEmail()
+// made with love by @pupperpuppy
 
