@@ -8,8 +8,9 @@ init()
 
 
 #variables
-c = input('how many accounts do you want to make?: ') #how many accounts do you want to make
-email = 'example@example.com'
+c = input('how many emails do you want to send?: ') #how many accounts do you want to make
+#email = 'example@example.com'
+email = input('whats your email?: ')
 
 supreme = colored('Supreme', 'white', 'on_red')
 
