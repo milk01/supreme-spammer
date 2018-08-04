@@ -1,5 +1,5 @@
 const request = require('request')
-console.log('supreme register spammer  ')
+console.log('supreme register spammer made by @pupperpuppy')
 
 function sendEmail() {
     console.log('Sending request to Supreme.')
