@@ -1,4 +1,4 @@
-# supreme-spammer
+# doesnt work anymore supreme broke it lol
 a supreme email spammer
 
 just replace `example@example.com` with the email of choice
