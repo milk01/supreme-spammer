@@ -1,0 +1,23 @@
+{
+  "name": "supreme-spammer",
+  "version": "1.0.0",
+  "description": "supreme spammer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "milk01",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milk01/supreme-spammer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/milk01/supreme-spammer/issues"
+  },
+  "homepage": "https://github.com/milk01/supreme-spammer#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
